@@ -1,7 +1,10 @@
 # Hi 👋, I'm Felippe Eduardo
 
 🚀 web developer  
-![Brasil](image.png)
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="25">
+</p>
+
 
 *I am a web developer specializing in creating modern, responsive interfaces using HTML, CSS, JavaScript, and SQL to deliver efficient, engaging, accessible, and functional digital experiences.**
 
