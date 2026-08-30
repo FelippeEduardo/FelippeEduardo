@@ -8,21 +8,15 @@
 
 *I am a web developer specializing in creating modern, responsive interfaces using HTML, CSS, JavaScript, and SQL to deliver efficient, engaging, accessible, and functional digital experiences.**
 
----
 
-## 🌐 Where to find me
 
-<p align="left">
-  
- 
-  
-</p>
+
 
 ---
 
 ## 🧠 What I do
 
--   Sites Interativos & Responsivos
+-  Interactive & Responsive Websites
 
 ---
 
