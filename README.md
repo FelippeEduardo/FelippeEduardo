@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Felippe Eduardo
 
-<!--
-**FelippeEduardo/FelippeEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 web developer  
+![Brasil](image.png)
 
-Here are some ideas to get you started:
+*I am a web developer specializing in creating modern, responsive interfaces using HTML, CSS, JavaScript, and SQL to deliver efficient, engaging, accessible, and functional digital experiences.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  
+ 
+  
+</p>
+
+---
+
+## 🧠 What I do
+
+-   Sites Interativos & Responsivos
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Development and version control tools
+![Vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Productivity Tools
+![office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+---
+
+
+
