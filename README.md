@@ -36,12 +36,11 @@
 ### Development and version control tools
 ![Vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-### Productivity Tools
+### Productivity tools of ducument
 ![office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+
+# My published projects
 
 ---
-
-
