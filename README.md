@@ -27,20 +27,23 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Development and version control tools
 ![Vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ### Productivity tools of ducument
 ![office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
-
-# My published projects
-
+## My programmer card
+https://felippeeduardo.github.io/card-digital/
 ---
