@@ -16,10 +16,12 @@
 - Digital Menus
 - Custom QR Codes
 - Digital Business Cards
+- Online sales and management system
 - Task Automation
 - Bot Creation
 - Data analysis and treatment
 - Graphs in Python
+- Chatbot
 ---
 
 ## technologies
@@ -28,8 +30,10 @@
 )
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/openpyxl-2C8EBB?style=for-the-badge&logo=openpyxl&logoColor=white)
 ![nbformat](https://img.shields.io/badge/nbformat-FAFAFA?style=for-the-badge&logo=jupyter&logoColor=orange)
