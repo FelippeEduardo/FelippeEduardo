@@ -46,6 +46,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ### Productivity tools of ducument
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdownlint&logoColor=white)
 ![office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 [![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://seuportifolio.com)
 ---
