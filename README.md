@@ -6,7 +6,7 @@
 </p>
 
 
-*I am a Web and Automation Developer specializing in modern, interactive, responsive, and accessible interfaces, delivering digital experiences that combine efficiency, engagement, and functionality. I develop task automation solutions and bots to boost productivity and optimize digital processes. My expertise also extends to data analysis and processing—turning information into actionable insights—and creating Python-based charts for clear, impactful data visualization.*
+*I am a digital solutions developer specializing in the creation of websites, web systems, process automation, digital menus, data analysis, and data visualization, delivering modern, responsive, and customized solutions.*
 ---
 
 ## 🧠 What I do
