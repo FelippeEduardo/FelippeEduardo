@@ -1,56 +1,66 @@
-# Hi 👋, I'm Felippe Eduardo 👨‍💻
+# Felippe Eduardo
 
-## < Web and Automation Developer >
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="40" height="25">
-</p>
+### Web & Automation Developer
 
+![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
 
-*I am a digital solutions developer specializing in the creation of websites, web systems, process automation, digital menus, data analysis, and data visualization, delivering modern, responsive, and customized solutions.*
+I build digital solutions that combine clean design, responsive development, and practical automation. My work spans websites, web systems, digital menus, data analysis, and custom tooling, with a focus on modern, maintainable, and tailored results.
+
 ---
 
-## 🧠 What I do
+## Services
 
-- Interactive & Responsive Websites
-- Modern Landing Pages
-- Digital Menus
-- Custom QR Codes
-- Digital Business Cards
-- Online sales and management system
-- Task Automation
-- Bot Creation
-- Data analysis and treatment
-- Graphs in Python
-- Chatbot
+- Responsive websites and modern landing pages
+- Digital menus and custom QR codes
+- Digital business cards
+- Online sales and management systems
+- Task automation and bot development
+- Chatbots
+- Data analysis, processing, and visualization
+- Python-based charts and dashboards
+
 ---
 
-## technologies
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+## Tech Stack
+
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Back-end & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![openpyxl](https://img.shields.io/badge/openpyxl-2C8EBB?style=for-the-badge&logo=openpyxl&logoColor=white)
-![nbformat](https://img.shields.io/badge/nbformat-FAFAFA?style=for-the-badge&logo=jupyter&logoColor=orange)
-![ipykernel](https://img.shields.io/badge/ipykernel-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Productivity tools of ducument
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdownlint&logoColor=white)
-![office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-[![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://seuportifolio.com)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white(https://app.diagrams.net/))
+### Automation & Tooling
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-2C8EBB?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Productivity
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
 ---
-## My programmer card
-[Click here](https://felippeeduardo.github.io/card-digital/)
+
+## Digital Business Card
+
+View my online profile and contact information:
+👉 [felippeeduardo.github.io/card-digital](https://felippeeduardo.github.io/card-digital/)
+
 ---
+
+## Contact
+
+Open to freelance projects and collaborations. Feel free to reach out through the card above.
