@@ -2,9 +2,19 @@
 
 ### Web & Automation Developer
 
-![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
+![Flag of Brazil](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
 
-I build digital solutions that combine clean design, responsive development, and practical automation. My work spans websites, web systems, digital menus, data analysis, and custom tooling, with a focus on modern, maintainable, and tailored results.
+I build digital solutions that combine clean design, responsive development, and practical automation. My work includes websites, web systems, digital menus, data analysis, and custom tools, always focused on modern, sustainable results tailored to each client's needs.
+
+---
+
+## Education
+
+- **Professional Course in Web Development**
+  Senac RN, Mossoró/RN. Completed.
+
+- **Python Journey 2026**
+  Hashtag Treinamentos. Completed.
 
 ---
 
@@ -38,7 +48,7 @@ I build digital solutions that combine clean design, responsive development, and
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Automation & Tooling
+### Automation & Tools
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/openpyxl-2C8EBB?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -54,13 +64,10 @@ I build digital solutions that combine clean design, responsive development, and
 
 ---
 
-## Digital Business Card
-
-View my online profile and contact information:
-👉 [felippeeduardo.github.io/card-digital](https://felippeeduardo.github.io/card-digital/)
-
----
-
 ## Contact
 
-Open to freelance projects and collaborations. Feel free to reach out through the card above.
+Open to freelance projects, collaborations, and full-time opportunities.
+
+[![Digital Card](https://img.shields.io/badge/Digital_Card-2A2A2A?style=for-the-badge&logoColor=white)](https://felippeeduardo.github.io/card-digital/)
+
+---
