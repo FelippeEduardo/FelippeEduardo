@@ -4,7 +4,7 @@
 
 ![Flag of Brazil](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
 
-I build digital solutions that combine clean design, responsive development, and practical automation. My work includes websites, web systems, digital menus, data analysis, and custom tools, always focused on modern, sustainable results tailored to each client's needs.
+I build digital solutions that combine clean design, responsive development, and practical automation. My work includes websites, web systems, digital menus, data analysis, voice assistants, and custom tools, always focused on modern, sustainable results tailored to each client's needs.
 
 ---
 
@@ -16,6 +16,9 @@ I build digital solutions that combine clean design, responsive development, and
 - **Python Journey 2026**
   Hashtag Treinamentos. Completed.
 
+- **Professional development in basic computing – operating systems and MS Office**
+  Senac RN, Natal/RN. Completed.
+
 ---
 
 ## Services
@@ -25,7 +28,10 @@ I build digital solutions that combine clean design, responsive development, and
 - Digital business cards
 - Online sales and management systems
 - Task automation and bot development
-- Chatbots
+- Chatbots and AI integration (Gemini API)
+- Voice assistants with speech recognition and synthesis
+- Computer automation with Python
+- Camera-based gesture controls
 - Data analysis, processing, and visualization
 - Python-based charts and dashboards
 
@@ -37,6 +43,9 @@ I build digital solutions that combine clean design, responsive development, and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-29B6FF?style=for-the-badge&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ### Back-end & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,11 +56,16 @@ I build digital solutions that combine clean design, responsive development, and
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![psutil](https://img.shields.io/badge/psutil-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![edge-tts](https://img.shields.io/badge/edge--tts-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV_Data-217346?style=for-the-badge&logoColor=white)
 
 ### Automation & Tools
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/openpyxl-2C8EBB?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
